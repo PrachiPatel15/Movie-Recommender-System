@@ -2,6 +2,7 @@
 - The main objective is to recommend 5 similar movies to user entered movie.
 - **Streamlit** framework was being used and web app was created.
 - The web app was then deployed on **Heroku**.
+- Demo Link: https://mrs-prachi.herokuapp.com/
 
 ## Dataset
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
